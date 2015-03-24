@@ -55,6 +55,7 @@ It provides data-reactive components with a simple and flexible API
 - [flint](http://flint.gs/) - Flint is a highly advanced Sass grid framework designed for rapid responsive development
 - [CSS Smart Grid](http://dryan.github.io/css-smart-grid/) - Lightweight, Responsive & Mobile First
 - [Susy](http://susy.oddbird.net/) - Your markup, your design, your opinions
+- [Lost](https://github.com/corysimmons/lost) - SCSS or Stylus fractional grid system built with calc(), based on Bootstrap, with a modified Jeet fallback
 
 ### Navigation
 - [Navigataur](https://github.com/micjamking/Navigataur) - A pure CSS responsive navigation menu
