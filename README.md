@@ -1,7 +1,9 @@
 # Javascript
+- [Charts](#charts)
 - [Compress](#compress)
 - [Drawing](#drawing)
 - [Frameworks](#frameworks)
+- [Maps](#maps)
 - [Mobile](#mobile)
 - [Network](#network)
 - [UI](#ui)
@@ -17,19 +19,27 @@
 
 # Javascript
 
+### Charts
+- [amcharts](http://www.amcharts.com/) - Charting library & maps
+- [Chart.js](http://www.chartjs.org/) - Simple, clean and engaging charts for designers and developers
+- [JSXGraph](https://github.com/jsxgraph/jsxgraph) - Is a cross-browser library for interactive geometry, function plotting, charting, and data visualization in a web browser
+
 ### Compress
 - [zlib.js](https://github.com/imaya/zlib.js) - Compact zlib, deflate, inflate, zip library in JavaScript
 - [JSZip](http://stuk.github.io/jszip/) - JSZip is a javascript library for creating, reading and editing .zip files, with a lovely and simple API
 - [JSXCompressor](http://jsxgraph.uni-bayreuth.de/wp/jsxcompressor/) - A pure JavaScript implementation of deflate, unzip and base64_decode
 
 ### Drawing
-- [amcharts](http://www.amcharts.com/) - Charting library & maps
-- [Chart.js](http://www.chartjs.org/) - Simple, clean and engaging charts for designers and developers
 - [circulus](http://sarasoueidan.com/tools/circulus/) - SVG menu in cyrcle style
-- [JSXGraph](https://github.com/jsxgraph/jsxgraph) - Is a cross-browser library for interactive geometry, function plotting, charting, and data visualization in a web browser
 
 ### Frameworks
 - [Bone.io](http://bone.io/) - Is a lightweight framework for building high performance Realtime Single Page HTML5 Apps
+
+### Maps
+- [Leaflet](http://leafletjs.com/) - Is a modern open-source JavaScript library for mobile-friendly interactive maps
+- [Openlayers](http://openlayers.org/) - A high-performance, feature-packed library for all your mapping needs
+- [map-tools.js](https://github.com/yagoferrer/map-tools) - Is a Google Maps Feature-rich Javascript wrapper that makes things like: Marker filtering, asynchronous loading, working with TopoJSON or GeoJSON, animation and more
+- [gmaps](https://github.com/hpneo/gmaps) - The easiest way to use Google Maps
 
 ### Mobile
 - [nativescript](https://www.nativescript.org/) - Build truly native apps with JavaScript
