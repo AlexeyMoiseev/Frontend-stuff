@@ -22,6 +22,7 @@
 ### Charts
 - [amcharts](http://www.amcharts.com/) - Charting library & maps
 - [Chart.js](http://www.chartjs.org/) - Simple, clean and engaging charts for designers and developers
+- [jointjs](http://jointjs.com/) - Is a modern HTML 5 JavaScript library for visualization and interaction with diagrams and graphs
 - [JSXGraph](https://github.com/jsxgraph/jsxgraph) - Is a cross-browser library for interactive geometry, function plotting, charting, and data visualization in a web browser
 
 ### Compress
