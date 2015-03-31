@@ -10,10 +10,11 @@
 - [Templating](#templating)
 
 # CSS
-- [Grid](#grid)
-- [Navigation](#grid)
 - [Fonts](#fonts)
 - [Frameworks](#frameworks)
+- [Grid](#grid)
+- [Navigation](#grid)
+- [UI](#ui)
 
 
 
@@ -61,16 +62,6 @@ It provides data-reactive components with a simple and flexible API
 
 # CSS
 
-### Grid
-- [jeet](http://jeet.gs/) - Jeet allows you to express your page grid the same way a human would describe it
-- [flint](http://flint.gs/) - Flint is a highly advanced Sass grid framework designed for rapid responsive development
-- [CSS Smart Grid](http://dryan.github.io/css-smart-grid/) - Lightweight, Responsive & Mobile First
-- [Susy](http://susy.oddbird.net/) - Your markup, your design, your opinions
-- [Lost](https://github.com/corysimmons/lost) - SCSS or Stylus fractional grid system built with calc(), based on Bootstrap, with a modified Jeet fallback
-
-### Navigation
-- [Navigataur](https://github.com/micjamking/Navigataur) - A pure CSS responsive navigation menu
-
 ### Fonts
 - [Fonts4Web](http://fonts4web.ru/) - Русские шрифты в комплектации TTF + WOFF + EOT
 - [Webfont](http://webfont.ru/) - Коллекция бесплатных шрифтов
@@ -81,3 +72,17 @@ It provides data-reactive components with a simple and flexible API
 - [semantic-ui](http://semantic-ui.com/) - User Interface | is the language of the web
 - [purecss](http://purecss.io/) - A set of small, responsive CSS modules that you can use in every web project
 - [ink](http://ink.sapo.pt//) - Create responsive web interfaces quick and efficiently
+
+### Grid
+- [jeet](http://jeet.gs/) - Jeet allows you to express your page grid the same way a human would describe it
+- [flint](http://flint.gs/) - Flint is a highly advanced Sass grid framework designed for rapid responsive development
+- [CSS Smart Grid](http://dryan.github.io/css-smart-grid/) - Lightweight, Responsive & Mobile First
+- [Susy](http://susy.oddbird.net/) - Your markup, your design, your opinions
+- [Lost](https://github.com/corysimmons/lost) - SCSS or Stylus fractional grid system built with calc(), based on Bootstrap, with a modified Jeet fallback
+
+### Navigation
+- [Navigataur](https://github.com/micjamking/Navigataur) - A pure CSS responsive navigation menu
+
+### UI
+- [Loaders.css](http://connoratherton.com/loaders) - Delightful and performance-focused pure css loading animations
+
