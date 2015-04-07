@@ -16,6 +16,7 @@
 - [Navigation](#grid)
 - [UI](#ui)
 
+# [Icons](#icons)
 
 
 # Javascript
@@ -86,3 +87,7 @@ It provides data-reactive components with a simple and flexible API
 ### UI
 - [Loaders.css](http://connoratherton.com/loaders) - Delightful and performance-focused pure css loading animations
 
+
+
+### Icons
+- [Minimalistic Icons](http://matt-cooper.com/minimalistic-icons/) - Are a clean, scalable and editable icon set
